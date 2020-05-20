@@ -3,9 +3,13 @@
 
 # Log file
 *.log
+*.out
 
 # BlueJ files
 *.ctxt
+
+#commenting target 
+target/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
