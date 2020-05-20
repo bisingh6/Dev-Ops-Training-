@@ -1,0 +1,11 @@
+/C/Users/BIRENDRASINGH/git
+/C/Users/BIRENDRASINGH/Dev-Ops-Training
+ 555  git status
+  556  git add README.md
+  557  git status
+  558  git commit -m "IDBB-10 protected branches demo"
+  559  git push origin master
+  560  git branch IDBB-10
+  561  git switch IDBB-10
+  562  git push origin IDBB-10
+  563  history
