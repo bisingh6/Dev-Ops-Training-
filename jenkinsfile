@@ -5,7 +5,7 @@ pipeline {
       stage('Hello') {
          steps {
             echo 'Hello World'
-            echo 'This is for Biren Query'
+            echo 'This is for Biren Query regarding scm poll'
          }
       }
       stage('Maven Build') {
